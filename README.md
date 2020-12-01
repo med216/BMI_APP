@@ -3,8 +3,11 @@
 A new Flutter project.
 
 # bmi_project_screenshot:
-
-
+![](screenshot/screenshot.png)
+![](screenshot/screenshot1.png)
+![](screenshot/screenshot2.png)
+![](screenshot/screenshot3.png)
+![](screenshot/screenshot4.png)
 
 
 ## Getting Started
